@@ -1,5 +1,5 @@
-name: flutter_background_service
-repository: https://github.com/ekasetiawans/flutter_background_service
+name: openhiit_background_service
+repository: https://github.com/a-mabe/openhiit_background_service
 
 packages:
   - packages/**
@@ -9,7 +9,7 @@ command:
     # Generate commit links in package changelogs.
     linkToCommits: true
     # Only allow versioning to happen on main branch.
-    branch: master
+    branch: main
     # Additionally build a changelog at the root of the workspace.
     workspaceChangelog: true
 
