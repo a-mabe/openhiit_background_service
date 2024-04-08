@@ -1,6 +1,6 @@
 # OpenHIIT Background Service
 
-This is a fork of the [openhiit_background_service](https://github.com/a-mabe/openhiit_background_service) package, originally created by [a-mabe](https://github.com/a-mabe). The original package provides a framework for running background services in Flutter applications.
+This is a fork of the [flutter_background_service](https://github.com/ekasetiawans/flutter_background_service) package, originally created by [ekasetiawans](https://github.com/ekasetiawans). The original package provides a framework for running background services in Flutter applications.
 
 ## Changes Made
 
@@ -34,7 +34,7 @@ To use OpenHIIT Background Service in your Flutter project, follow these steps:
    import 'package:openhiit_background_service/openhiit_background_service.dart';
    ```
 
-4. Follow the original [openhiit_background_service documentation](https://pub.dev/packages/openhiit_background_service) for additional usage instructions.
+4. Follow the original [flutter_background_service documentation](https://pub.dev/packages/flutter_background_service) for additional usage instructions.
 
 ## Feedback and Contributions
 
