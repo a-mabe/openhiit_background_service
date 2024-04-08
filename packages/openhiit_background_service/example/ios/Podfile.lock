@@ -1,7 +1,7 @@
 PODS:
   - device_info_plus (0.0.1):
     - Flutter
-  - Flutter (1.0.0)
+  - Flutter (1.0.0-dev.1)
   - openhiit_background_service_ios (0.0.3):
     - Flutter
   - flutter_local_notifications (0.0.1):
