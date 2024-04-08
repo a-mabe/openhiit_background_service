@@ -29,7 +29,7 @@ flutter:
     implements: openhiit_background_service
     platforms:
       android:
-        # package: id.flutter.openhiit_background_service
+        package: id.flutter.openhiit_background_service
         pluginClass: OpenhiitBackgroundServicePlugin
         dartPluginClass: OpenhiitBackgroundServiceAndroid
   # To add assets to your plugin package, add an assets section, like this:
