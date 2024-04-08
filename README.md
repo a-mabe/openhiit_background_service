@@ -1,7 +1,3 @@
-Certainly! Here's the updated README with the specific changes you've made:
-
----
-
 # OpenHIIT Background Service
 
 This is a fork of the [openhiit_background_service](https://github.com/a-mabe/openhiit_background_service) package, originally created by [a-mabe](https://github.com/a-mabe). The original package provides a framework for running background services in Flutter applications.
