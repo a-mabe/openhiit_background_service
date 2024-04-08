@@ -4,7 +4,7 @@ version: 1.0.0
 repository: https://github.com/a-mabe/openhiit_background_service
 
 funding:
-  - https://www.buymeacoffee.com/a-mabe
+  - https://www.buymeacoffee.com/amabe
 
 environment:
   sdk: ">=2.17.5 <4.0.0"
