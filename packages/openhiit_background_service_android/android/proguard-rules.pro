@@ -1,2 +1,0 @@
--keep class id.flutter.openhiit_background_service.** { *; }
--keepclassmembers class id.flutter.openhiit_background_service.** {*;}
