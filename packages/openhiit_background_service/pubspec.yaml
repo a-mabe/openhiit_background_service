@@ -14,7 +14,11 @@ dependencies:
   flutter:
     sdk: flutter
 
-  openhiit_background_service_platform_interface: ^1.0.0-dev.1
+  openhiit_background_service_platform_interface:
+    git:
+      url: https://github.com/a-mabe/openhiit_background_service
+      ref: 1.0.0-dev.2-test
+      path: ./packages/openhiit_background_service_platform_interface
   # openhiit_background_service_android: ^1.0.0-dev.1
   # openhiit_background_service_ios: ^1.0.0-dev.1
 dev_dependencies:
