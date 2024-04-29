@@ -15,8 +15,8 @@ dependencies:
     sdk: flutter
 
   openhiit_background_service_platform_interface: ^1.0.0-dev.1
-  openhiit_background_service_android: ^1.0.0-dev.1
-  openhiit_background_service_ios: ^1.0.0-dev.1
+  # openhiit_background_service_android: ^1.0.0-dev.1
+  # openhiit_background_service_ios: ^1.0.0-dev.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -30,9 +30,9 @@ flutter:
   # The 'pluginClass' and Android 'package' identifiers should not ordinarily
   # be modified. They are used by the tooling to maintain consistency when
   # adding or updating assets for this project.
-  plugin:
-    platforms:
-      android:
-        default_package: openhiit_background_service_android
-      ios:
-        default_package: openhiit_background_service_ios
+  # plugin:
+  #   platforms:
+  #     android:
+  #       default_package: openhiit_background_service_android
+  #     ios:
+  #       default_package: openhiit_background_service_ios
