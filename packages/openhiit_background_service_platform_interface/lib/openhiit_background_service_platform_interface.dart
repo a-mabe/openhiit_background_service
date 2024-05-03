@@ -18,9 +18,9 @@ abstract class OpenhiitBackgroundServicePlatform extends PlatformInterface
   static OpenhiitBackgroundServicePlatform? _instance;
 
   static OpenhiitBackgroundServicePlatform get instance {
-    // if (_instance == null) {
-    //   throw 'OpenhiitBackgroundService is currently supported for Android and iOS Platform only.';
-    // }
+    if (_instance == null) {
+      throw 'OpenhiitBackgroundService is currently supported for Android and iOS Platform only.';
+    }
 
     return _instance!;
   }
