@@ -7,7 +7,7 @@ funding:
   - https://www.buymeacoffee.com/amabe
 
 environment:
-  sdk: ">=2.17.5 <4.0.0"
+  sdk: ">=3.3.0 <4.0.0"
   flutter: ">=3.0.0"
 
 dependencies:
