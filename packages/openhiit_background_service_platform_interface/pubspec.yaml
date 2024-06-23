@@ -1,6 +1,6 @@
 name: openhiit_background_service_platform_interface
 description: A platform interface for flutter background service.
-version: 1.0.0-dev.2
+version: 1.0.0-dev.3
 repository: https://github.com/a-mabe/openhiit_background_service
 
 environment:
